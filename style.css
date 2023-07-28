@@ -1,0 +1,143 @@
+.first-section{
+    height: 500px;
+    background-color: #FCEEF1;
+    justify-content: center;
+    
+   
+   
+}
+.container{
+    width: 80%;
+    text-align: center;
+    margin: auto auto;
+    height: 100%;
+    
+}
+.first-all{
+    display: flex;
+}
+.first-left{
+    height: 300px;
+    width: 400px;
+    margin-top: 140px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+button{
+    padding: 10px 25px; 
+    border-radius: 15%;
+    background-color: #E55473;
+}
+.first-right{
+    height: 300px;
+    margin-left: 200px;
+}
+.first-right img{
+    height: 500px;
+    
+}
+.contain{
+    margin: auto auto;
+    width: 80%;
+ 
+}
+.contain .first-up{
+    text-align: center;
+}
+
+.second-section .first-down{
+   display: flex;
+}
+.first-down .first-down-ff{
+    height:100%;
+    width: 32%;
+    border: solid 1px red;
+    align-items: center;
+    text-align: center;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    margin-right: 15px;
+
+}
+.first-down-ff img{
+height: 350px;
+}
+.f1{
+    background-color: #F2DEE7;
+}
+
+.f2{
+    background-color:#D9EFF1 ;
+}
+.f3{
+    background-color:#E3EBDB ;
+}
+.f-name{
+    display: flex;
+}
+.f-name .fns{
+    width: 33%;
+    height: auto;
+   text-align: center;
+}
+.f-name .fns hr{
+    border-bottom: none;
+    width: 20%;
+    border: 2px solid #212121;
+}
+.third-section{
+    margin-top: 50px;
+}
+.third-all{
+    display: flex;
+}
+.third-section-left{
+    text-align: center;
+    padding: 150PX;
+}
+.third-section-left span{
+    color: red;
+}
+.fourth-section-up{
+    text-align: center;
+}
+.fourth-section-down{
+    display: flex;
+}
+.fourth-section-f img{
+    width: 95%;
+    margin-left: 15px;
+    border: 2px red solid;
+    box-shadow: 20px 20px black ;
+}
+.fourth-section{
+ padding-bottom: 50px;
+height: auto;
+}
+.fifth-section{
+    height: 300px;
+    margin-top: 100px;
+    background-image: url("./Flower Asset/rectangle 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+.fifth-section-up{
+  padding-top: 50px;
+}
+input{
+    width: 600px;
+    height: 60px;
+}
+.fifth-section button{
+    height: 55px;
+    margin-left: 10px;
+    width: 120px;
+    border-radius: 35;
+}
+.f{
+   background-color: black;
+   color: white;
+   padding: 25px;
+}
